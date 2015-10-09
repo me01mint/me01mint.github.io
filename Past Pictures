@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pictures</title>
+</head>
+<body>
+    <h1>Pictures of Past Contests</h1>
+    <table>
+        <tr>
+            <td><img src="DSC_0325.JPG" alt="0325" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0327.JPG" alt="0327" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0329.JPG" alt="0329" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0330.JPG" alt="0330" style="width:300px;height:200px;"></td>
+        </tr>
+        <tr>
+            <td><img src="DSC_0331.JPG" alt="0331" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0332.JPG" alt="0332" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0333.JPG" alt="0333" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0334.JPG" alt="0334" style="width:300px;height:200px;"></td>
+        </tr>
+        <tr>
+            <td><img src="DSC_0337.JPG" alt="0337" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0339.JPG" alt="0339" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0341.JPG" alt="0341" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0342.JPG" alt="0342" style="width:300px;height:200px;"></td>
+        </tr>
+        <tr>
+            <td><img src="DSC_0345.JPG" alt="0345" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0346.JPG" alt="0346" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0347.JPG" alt="0347" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0348.JPG" alt="0348" style="width:300px;height:200px;"></td>
+        </tr>
+        <tr>
+            <td><img src="DSC_0349.JPG" alt="0349" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0353.JPG" alt="0353" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0354.JPG" alt="0354" style="width:300px;height:200px;"></td>
+            <td><img src="DSC_0372.JPG" alt="0372" style="width:300px;height:200px;"></td>
+        </tr>
+    </table>
+</body>
+<footer>
+</footer>
+</html>

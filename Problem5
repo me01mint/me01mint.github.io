@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sums Away</title>
+</head>
+<body>
+    <h1>Sums Away</h1>
+    <h2>Problem 1, 2014</h2>
+    <p><b><u>Background Information:</u></b><br>
+    The sum of the first N counting numbers is N (N + 1) / 2.<br>
+The sum of the first N perfect squares is N (N + 1) (2N + 1) / 6.<br>
+The sum of the first N perfect cubes is (N (N + 1) / 2)2.<br>
+SUPERSUM (N)  is defined to be the sum of the sum of the first N counting numbers, perfect squares and perfect cubes.</p>
+    <img src="Problem5Cartoon.png" alt="Problem 4 Diagram" style="width:300px;height:387px;"><br>
+    
+    <p><b><u>Programming Problem:</u></b><br>
+    Input:  positive integer N les than 200<br>
+    Output: The SUPERSUM(N)
+    
+    <table>
+        <tr>
+            <td>Example1:</td>
+            <td>Input:</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Output:</td>
+            <td>295</td>
+        </tr>
+        <tr>
+            <td>Example2:</td>
+            <td>Input:</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Output:</td>
+            <td>553</td>
+        </tr>
+    </table>
+</body>
+<footer>
+</footer>
+</html>

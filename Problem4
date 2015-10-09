@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Four-Digit Number Cycler</title>
+</head>
+<body>
+   <h1>Four-Digit Number Cycler</h1>
+   <h2>Problem 4, 2015</h2>
+   
+   <p><b><u>Background Information:</u></b><br>
+   A very popular game is Four-Digit Number Cycler. In this game your opponent gives you a four-digit number (with at least two different digits) and you give your opponent a four-digit number (with at least two different digits). The first player to compute the number of cycles until repetition for his/her number is the winner. Cycles are described in the next paragraph. The game is mostly fair because every four-digit number (with at least two different digits) will reach a cycle of length one. </p>
+   <p>CYCLES: Start with any four-digit number in which at least two of the digits are different. Put the digits in descending order to make one new four-digit number. Put the digits in ascending order to make a second new four-digit number. Include leading zeros if necessary. Subtract the second number from the first to form a new number. Apply the process until the new number is the same as the previous one.
+<br><br>
+For example, if your starting number is 7213, the following computations are executed:
+</p>
+
+<img src="Problem4Diagram.png" alt="Problem 4 Diagram" style="width:514px;height:60px;">
+
+<p>In this example, eight subtractions were required to find a cycle of length one.<br>
+From the above example it can be observed if your starting number is 7641 (or any permutation of the digits 7641) then the number subtractions needed (to determine a cycle of length one) is 2.<br>
+If you start with a four-digit number that does not have at least two different digits then the number of necessary subtractions will be 2. <br>
+</p>
+<p><b><u>Programming Problem:</u></b><br>
+<table>
+    <tr>
+        <td>Example 1:</td>
+        <td>Input:</td>
+        <td>7213</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td> Output:</td>
+        <td>7213</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Example 2:</td>
+        <td>Input:</td>
+        <td>7215</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td> Output:</td>
+        <td>7215</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Example 3:</td>
+        <td>Input:</td>
+        <td>3333</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td> Output:</td>
+        <td>3333</td>
+        <td>2</td>
+    </tr>
+</table>
+        
+</body>
+<footer>
+</footer>
+</html>

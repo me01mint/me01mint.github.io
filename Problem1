@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Be There, And Be More Than Square</title>
+</head>
+<body>
+   
+    
+    <h1>Be There, And Be More Than Square</h1>
+    
+    <h2>Problem #1, 2015</h2>
+    
+        <p><b><u>Background Information: </u></b><br>
+        On a standard    8x8 checkerboard you can identify 1,296 unique rectangles. On a 
+1x1 checkerboard there is just one rectangle. On a 2x2 checkerboard there are 9 unique rectangles. On a 
+3x3 checkerboard there are 36 unique rectangles. On a 4x4 checkerboard there are 100 unique rectangles. 
+On a 5x5 checkerboard there are 225 unique rectangles. On a 6x6 checkerboard there are 441 unique 
+rectangles. In fact, on an NxN checkerboard there are ((N(N+1))/2)^2rectangles.</p>
+
+<img src="CheckerBoard.png" alt="Checker Board" style="width:314px;height:300px;">
+        <p><b><u>Programming Problem:</b></u><br>
+Input:  a positive integer N less than 200, for the size of a checkerboard.
+Output: the number of rectangles on the NxN checkerboard.
+
+Example 1:	 Input: 		6
+Output: 	441
+
+Example 2: 	Input: 		10
+Output: 	3025
+</p>
+
+   
+</body>
+<footer>
+</footer>
+</html>

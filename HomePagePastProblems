@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Past Problems</title>
+</head>
+<body>
+   <h1>Past Problems</h2>
+   <h2>Take a look at some of our previous problems</h2>
+   <a href="file:///C:/Users/Matt/Documents/Senior%20Semester%201/CSIS%20390/csis390-project1/Problem1">Be There, And Be More Than Square</a><br><br>
+   <a href="file:///C:/Users/Matt/Documents/Senior%20Semester%201/CSIS%20390/csis390-project1/Problem2">Simplified Poker</a><br><br>
+   <a href="file:///C:/Users/Matt/Documents/Senior%20Semester%201/CSIS%20390/csis390-project1/Problem3">Polygon Labeling</a><br><br>
+   <a href="file:///C:/Users/Matt/Documents/Senior%20Semester%201/CSIS%20390/csis390-project1/Problem4">Four-Digit Number Cycler</a><br><br>
+   <a href="file:///C:/Users/Matt/Documents/Senior%20Semester%201/CSIS%20390/csis390-project1/Problem5">Sums Away</a>
+</body>
+<footer>
+</footer>
+</html>
