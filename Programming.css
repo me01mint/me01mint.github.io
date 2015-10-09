@@ -20,7 +20,7 @@ a {
     color: rgb(255,215,30);
     text-decoration: none;
     padding: 10px;
-    text-aign: center;
+    text-align: center;
     font-family: 'Cinzel Decorative', cursive;
 }
 
@@ -47,6 +47,11 @@ body {
     margin: 70px;
     padding: 0px;
     border: 30px groove rgb(34,130,90);
+    background: url(matrix.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 footer {
@@ -58,13 +63,6 @@ footer {
 }
 
 
-html { 
-  background: url(matrix.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 form {
     color: rgb(255,215,30);
