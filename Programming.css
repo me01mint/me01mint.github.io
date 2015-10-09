@@ -54,6 +54,9 @@ nav#nav1 li {
     display: inline;
     
 }
+nav#nav1{
+ margin: auto;   
+}
 
 nav ol{
     margin:0px;
