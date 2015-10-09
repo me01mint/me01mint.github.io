@@ -3,35 +3,93 @@ h1 {
     text-align: center;
     background-color: rgb(34,130,90);
     color: rgb(255,215,30);
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: auto;
+    width: auto;
 }
 
+h2{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 120%;
+    text-align: center;
+    background-color: rgb(255,215,30);
+    color: rgb(34,130,90);
+    margin: auto;
+    width: 700px;
+}
+
+div#problems{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+
+form#reg{
+    margin: auto;
+    padding: 10px;
+    border: 30px groove rgb(34,130,90);
+    background-color: rgba(0,0,0,.75);
+}
+    
+
 a {
-    display: block;
     width: 200px;
+    display: inline-block;
     border: 1px solid lightgray;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 0px;
-    margin-right: 0px;
     text-align: center;
     background-color: rgb(34,130,90);
     color: rgb(255,215,30);
     text-decoration: none;
     padding: 10px;
-    text-align: center;
     font-family: 'Cinzel Decorative', cursive;
 }
 
-nav li {
-    display: inline-block;
+
+nav#nav1 li {
+    width: 225px;
+    list-style:none;
     font-weight: 700;
+    margin: auto;
+    display: inline;
+    
 }
 
-nav li a:hover {
-  background-color: darkgreen;
+nav ol{
+    margin:0px;
+    padding: px;   
+  
 }
+nav li a: {
+    background-color: darkgreen;
+}
+
+nav {
+    margin: auto;
+}
+
+nav#nav2 li{
+    width: 225px;
+    padding: px;
+    font-weight: 700;
+    margin: auto;
+    text-align: center;
+}
+
+div#winnermain {
+    width: 750px;
+    margin: auto;
+    
+}
+ul{
+ font-family: 'Cinzel Decorative', cursive;   
+}
+div#div1,div#div2,div#div3{
+    width: 250px;
+    float: left;
+    background-color: whitesmoke;
+}
+
 
 p.specialP {
     font-family: 'Cinzel Decorative', cursive;
@@ -43,8 +101,28 @@ p.specialP {
     font-weight: 900;
 }
 
+
+
 body {
+   
+    background: url(matrix.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+section#main{
     margin: 70px;
+    padding: 0px;
+    border: 30px groove rgb(34,130,90);
+    background-color: rgba(0,0,0,.75);
+}
+table#ttp{
+    margin: auto;
+}
+
+body#ppt {
+    margin: auto;
     padding: 0px;
     border: 30px groove rgb(34,130,90);
     background: url(matrix.jpg) no-repeat center center fixed; 
