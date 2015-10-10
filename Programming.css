@@ -17,6 +17,10 @@ h2{
     width: 700px;
 }
 
+nav li a:hover {
+  background-color: darkgreen;
+}
+
 div#problems{
     text-align: center;
     margin: auto;
